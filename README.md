@@ -1,5 +1,7 @@
 # MoveToE
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Windows CLI-утилита для переноса выбранных пользовательских каталогов из `%USERPROFILE%` на другой диск с последующим созданием directory symlink.
 
 ## Статус аудита
